@@ -12,7 +12,7 @@ You need to have [Docker](https://www.docker.com/get-started) installed and runn
 
 The Verdaccio configuration file is located at `conf/config.yaml`. Follow the [configuration documentation](https://verdaccio.org/docs/configuration) to customize it.
 
-To being able to login into the Web UI, you need to add a NPM user:
+To be able to login into the Web UI, you need to add a NPM user:
 
 ```sh
 npm adduser --registry http://localhost:4873
